@@ -1,1 +1,1 @@
-# Python-Projects
+Cricket Battle Simulator is a Python-based game that simulates a cricket match between a user and the computer. Utilizing the random module, this game allows players to experience both batting and bowling, where they can input their choices and compete against the computer’s random selections. The game includes input validation, score tracking, and a final results display to determine the winner. This project showcases fundamental concepts in Python programming, including loops, conditionals, and basic input/output operations.
